@@ -13,7 +13,7 @@
 #define WIFI_SSID "Phong 18- 2.4G"
 #define WIFI_PASSWORD "876543210"
 #define FIREBASE_HOST "esp-firebase-f07dc-default-rtdb.firebaseio.com"
-#define FIREBASE_AUTH "0b0IYc5BiY2q2SmleHQru4QvyyUmzdf9QRrF8zmD"
+#define FIREBASE_AUTH ""
 FirebaseData fbdb;
 
 #define NTP_SERVER "pool.ntp.org"
